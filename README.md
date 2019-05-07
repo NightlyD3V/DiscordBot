@@ -1,1 +1,2 @@
-# Miru a Discord bot for a friend
+# Miru 
+a Discord bot for a friend
